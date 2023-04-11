@@ -8,13 +8,13 @@ an edge over my league mates!
 
 
 ### 🛠 Skills
-Python, R
-SQL Server, MySQL, PostgreSQL
-Tableau, Power BI
-Excel
+Python, R  <br>
+SQL Server, MySQL, PostgreSQL  <br>
+Tableau, Power BI  <br>
+Excel  <br>
 
-Python Packages: Pandas, Plotly, StreamLit, WebScraping (Beautiful Soup), 
-Web: HTML, CSS, Boostrap
+Python Packages: Pandas, Numpy, Plotly, StreamLit, WebScraping (Beautiful Soup)  <br>
+Web: HTML, CSS, Boostrap 
 
 
 ## Other Common Github Profile Sections
